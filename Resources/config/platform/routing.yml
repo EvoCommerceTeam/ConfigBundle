@@ -1,0 +1,4 @@
+evo_config:
+  resource: "@EvoPlatformConfigBundle/Controller"
+  type: annotation
+  prefix: /config
